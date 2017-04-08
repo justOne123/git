@@ -1,2 +1,2 @@
 software  aaa.
-Git software  bbb.
+Git software.
